@@ -135,7 +135,9 @@ body { font-family: 'Lato', sans-serif;
  .email, .btn{ box-shadow:6px 5px 6px rgb(255, 212, 220);  }
  .btn{ box-shadow:5px 4px 8px rgb(185, 231, 250);  }
  
- #img1{  box-shadow:5px 4px 8px rgba(5, 151, 160, 0.15); }
-#img2 {  box-shadow:5px 4px 8px rgba(167, 33, 98, 0.15); }
-#img3 {  box-shadow:5px 4px 8px rgba(5, 151, 160, 0.15); }
- .imgp{ text-shadow: 2px 2px 2px rgb(176, 243, 255);}
+ #img1{  box-shadow:5px 4px 8px rgb(166, 249, 253); }
+#img2 {  box-shadow:5px 4px 8px rgb(252, 153, 200); }
+#img3 {  box-shadow:5px 4px 8px rgb(130, 244, 250); }
+ .imgp{ text-shadow: 2px 2px 2px rgb(174, 243, 255);}
+ .instagramh{ text-shadow: 3px 3px 3px rgb(252, 121, 230); }
+ 
