@@ -1,7 +1,7 @@
 body { font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;}
 
-    header{ background-color: #E554731A; background-image: url('../Flower Asset/pngwing\ 10.png');
+    header{ background-color: #E554731A; background-image: url('../flower-asset/pngwing-10.png');
             background-repeat: no-repeat; background-position: bottom right; }
     
     .header-text{ padding: 150px  970px 170px 240px;}
@@ -94,7 +94,7 @@ body { font-family: 'Lato', sans-serif;
 
 .img4{ display: flex; gap: 24px; padding: 0px 240px 128px;}
 
-.bgimg{background-image: url('../Flower Asset/Rectangle\ 9.png'); padding: 122px 287px 249px ; background-repeat: no-repeat; background-position:center}
+.bgimg{background-image: url('../flower-asset/rectangle-9.png'); padding: 122px 287px 249px ; background-repeat: no-repeat; background-position:center}
 
 .bgimg{ padding: 122px 587px ;}
 
@@ -139,5 +139,4 @@ body { font-family: 'Lato', sans-serif;
 #img2 {  box-shadow:5px 4px 8px rgb(252, 153, 200); }
 #img3 {  box-shadow:5px 4px 8px rgb(130, 244, 250); }
  .imgp{ text-shadow: 2px 2px 2px rgb(174, 243, 255);}
- .instagramh{ text-shadow: 3px 3px 3px rgb(252, 121, 230); }
- 
+ .instagramh, .secdivh3{ text-shadow: 3px 3px 3px rgb(252, 121, 230); }
