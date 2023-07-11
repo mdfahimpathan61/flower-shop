@@ -32,8 +32,8 @@ body { font-family: 'Lato', sans-serif;
        
  .btn:hover{ background-color: rgb(142, 231, 9); }       
 
- .secdiv1{ color: #272727;s
-    text-align: center; padding: 170px 660px 50px;
+ .secdiv1{ color: #272727; 
+    text-align: center;  padding: 100px 150px;
     }
     .secdivh3{  font-size: 40px;
         line-height: normal;
