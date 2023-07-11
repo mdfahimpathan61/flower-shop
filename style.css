@@ -70,6 +70,63 @@ body { font-family: 'Lato', sans-serif;
 .hotp{ color: rgba(39, 39, 39, 0.60);
     
     font-size: 18px;
-  
+    font-style: normal;
     font-weight: 400;
     line-height: 30px;}
+.discount{ color:#E55473;}
+.instagram{padding: 128px 663px 48px;
+           text-align: center;}
+
+.instagramh{ color: #272727;
+            
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;}
+   
+.instagramp{ color: rgba(39, 39, 39, 0.60);
+    
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;}     
+
+.img4{ display: flex; gap: 24px; padding: 0px 240px 128px;}
+
+.bgimg{background-image: url('../Flower Asset/Rectangle\ 9.png'); padding: 122px 287px 249px ; background-repeat: no-repeat; background-position:center}
+
+.bgimg{ padding: 122px 587px ;}
+
+.dealh{ color: #272727;
+    text-align: center;
+    
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;}
+.dealp{ color: red;
+    text-align: center;
+  
+    font-size: 18px;
+    
+    font-weight: 400;
+    line-height: 30px;}    
+ 
+.subscribe{ display: flex; gap:20px }    
+.email{ padding: 23px  150px ; border: 0px solid; border-radius: 5px;}
+
+.footer{ text-align: center; background-color: black; padding: 128px 650px; margin-top: 128px}
+.fh1{ color: white; 
+    
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;}
+
+.fp{ color: rgba(255, 255, 255, 0.90);
+    
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;}
+ small{ color:beige;}
