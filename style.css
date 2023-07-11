@@ -1,2 +1,75 @@
 body { font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;}
+
+    header{ background-color: #E554731A; background-image: url('../Flower Asset/pngwing\ 10.png');
+            background-repeat: no-repeat; background-position: bottom right; }
+    
+    .header-text{ padding: 150px  970px 170px 240px;}
+       .hh1{ color: #272727;
+        
+        font-size: 80px;
+    
+        font-weight: 800;
+        line-height: normal;}
+    .hp{  color: rgba(39, 39, 39, 0.60);
+       
+        font-size: 18px;
+      
+        font-weight: 400;
+        line-height: 30px;}
+
+.btn{ border: 0px solid;
+         border-radius: 8px;
+    background: #E55473;
+       padding:20px 43px ; color: white ;}
+       
+
+ .secdiv1{ color: #272727;
+    text-align: center; padding: 170px 660px 50px;
+    }
+    .secdivh3{  font-size: 40px;
+        line-height: normal;
+        font-weight: 800;}
+
+     .secdivp{ color: #27272799;  font-size: 18px;
+        
+        font-weight: 400;
+        line-height: 30px;}   
+
+        .divimg{ display: flex; text-align: center; gap: 24px; padding: 0px 240px 140px}
+        #img1{ border: 0px solid ; padding: 110px 78px 0px 76px;
+            border-radius: 300px 300px 0px 0px; background: rgba(167, 33, 98, 0.15);}
+    
+   
+     
+    #img2 { background: rgba(5, 151, 160, 0.15); padding: 117px 47px 51px;
+        border-radius: 300px 300px 0px 0px;}   
+      
+    #img3 { border-radius: 300px 300px 0px 0px;
+        background: rgba(71, 125, 17, 0.15);
+        padding: 67px 75px 0px;}   
+  .imgp{ color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;}     
+    
+ .hot { text-align: center ; padding: 230px 0px 150px 395px;
+    color: #272727;
+   
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;} 
+
+.hotimg { display: flex;   background: rgba(229, 84, 115, 0.05)}
+.hotimg1 { padding: 100px 430px 100px 186px}
+.hotp{ color: rgba(39, 39, 39, 0.60);
+    
+    font-size: 18px;
+  
+    font-weight: 400;
+    line-height: 30px;}
